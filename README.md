@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Stepan
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Golang%20developing%20is%20process)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Golang%20developing%20in%20process)](https://git.io/typing-svg)
 
 🎓 Student & Junior Developer  
 💻 Full-stack | 🛡 Infosec enthusiast  
