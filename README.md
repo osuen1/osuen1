@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JvN3loMzVueXc2aGliaTJ2b2cwYXdycWIyZDg3aHduYW5oaG4yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="coding gif" width="800" />
-</p>
-
 # 👋 Hi, I'm Stepan
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Golang%20developing%20is%20process)](https://git.io/typing-svg)
 
@@ -26,29 +22,12 @@ I prefer **understanding how things work internally**, not just using libraries:
 ---
 
 ## 🛠 Tech Stack
-
-### Languages
-- **Go**
-- **Python**
-- **JavaScript**
-- **SQL**
-
-### Backend & Databases
-- PostgreSQL
-- Flask
-- Database design & complex SQL queries
-- REST APIs
-
-### Frontend
-- Vanilla HTML / CSS / JavaScript
-
-### Other tools & tech
-- Linux / macOS
-- Git & GitHub
-- Telegram Bots
-- TensorFlow
-- Tkinter
-- Console utilities (Windows)
+**Core:** `Go` · `Python` · `JavaScript` · `SQL`  
+**Backend:** `PostgreSQL` · `Flask` · `REST API` · `Database Design`  
+**Frontend:** `HTML` · `CSS` · `Vanilla JS`  
+**Tools:** `Git` · `Linux` · `macOS` · `Telegram API` 
+**ML:** `TensorFlow`  
+**Other:** `Tkinter` · `CLI tools` · `Algorithms & Data Structures`
 
 ---
 
@@ -98,3 +77,5 @@ I prefer **understanding how things work internally**, not just using libraries:
 ---
 
 📫 **Open to collaboration, internships and learning opportunities**
+
+[![Telegram](https://img.shields.io/badge/Telegram-@neilmill-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@neil_mill)
