@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JvN3loMzVueXc2aGliaTJ2b2cwYXdycWIyZDg3aHduYW5oaG4yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="coding gif" width="800" />
+</p>
+
 # 👋 Hi, I'm Stepan
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Golang%20developing%20is%20process)](https://git.io/typing-svg)
 
